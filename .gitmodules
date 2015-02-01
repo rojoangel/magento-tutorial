@@ -1,0 +1,3 @@
+[submodule "simple-magento-vagrant"]
+	path = simple-magento-vagrant
+	url = git@github.com:rojoangel/simple-magento-vagrant.git
